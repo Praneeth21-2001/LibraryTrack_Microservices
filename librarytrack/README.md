@@ -222,5 +222,3 @@ If a genre has sub-genres:
 Next up: **Book module** 📖
 
 ---
-
-Happy coding! 🎉
